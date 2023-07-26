@@ -18,10 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jimena Gonzalez-CoteraA
+
+
+title: Jimena Gonzalez-Cotera
 #email: jimenagoncot at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  Some projects of mine!
+  I post here about projects I've been working on. Connect with me on LinkedIn or via email!
+author: Jimena González-Cotera
+email: jimenagoncot 'at' gmail 'dot' com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jimenacotera
@@ -29,6 +33,9 @@ linkedin_username : jimenagoco
 author: ""
 # Build settings
 theme: minima
+#minma skin style
+minima:
+  date_format: "%B %e, %Y" 
 #theme: just-the-docs
 #plugins:
 #  - jekyll-feed
