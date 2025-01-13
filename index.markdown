@@ -4,4 +4,4 @@
 
 layout: home
 ---
-These are some projects I've been working on
+Some projects I have worked on
